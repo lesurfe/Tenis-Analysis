@@ -42,12 +42,12 @@ Video analysis will go one step further and allow for tracking od the different 
 
 End goal is to provide a detailed analysis of the players performance including:
   - Shot analysis:
-      Good / Bad
-      Shot type
-      Shot location
+    - Good / Bad
+    - Shot type
+    - Shot location
     
   - Player analysis:
-      Player distance
-      Pose analysis at the moment of the shot
-      Feedback on pose
-      Recommendations to improve shots
+    - Player distance
+    - Pose analysis at the moment of the shot
+    - Feedback on pose
+    - Recommendations to improve shots
