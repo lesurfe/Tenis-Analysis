@@ -1,3 +1,5 @@
+![Project Screenshot](tennis1.png)
+
 Image analysis based on several models taken from Roboflow to identify:
   - Tennis player
   - Tennis ball
